@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Личные данные</string>
+    <string name="login">Номер телефона</string>
+    <string name="password">Пароль</string>
+    <string name="buttonClick">ВОЙТИ</string>
+    <string name="name_app">КУПИКИНО</string>
+    <string name="textGood">Поздравляем, вы успешно вошли в приложение!</string>
+</resources>
